@@ -1,0 +1,32 @@
+{
+   "report": [
+    {
+        "nombre": "prueba",
+        "humedad": 15.5,
+        "longitud_latitud": 0.5,
+        "presion": 771.2,
+        "temperatura": 23.0
+      },
+      {
+        "nombre": "prueba1",
+        "humedad": 17.0,
+        "longitud_latitud": 1.5,
+        "presion": 773.25,
+        "temperatura": 16.0
+      },
+      {
+        "nombre": "prueba2",
+        "humedad": 17.5,
+        "longitud_latitud": 1.5,
+        "presion": 773.25,
+        "temperatura": 16.0
+      },
+      {
+        "nombre": "prueba3",
+        "humedad": 28.0,
+        "longitud_latitud": 1.7,
+        "presion": 773.5,
+        "temperatura": 17.0
+    }
+   ] 
+}
