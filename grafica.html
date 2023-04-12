@@ -60,10 +60,10 @@
     };
 
     fetchJSON().then(datapoints => {
-        const nombre = datapoints.report.map(function(index) {
-            return index.nombre;
+        const longitud_latitud = datapoints.report.map(function(index) {
+            return index.longitud_latitud;
         });
-        myChart.config.data.labels = nombre;
+        myChart.config.data.labels = longitud_latitud;
         myChart.update();
     });
 
